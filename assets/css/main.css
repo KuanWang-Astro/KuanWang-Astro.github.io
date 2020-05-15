@@ -1534,7 +1534,7 @@ button {
 		position: relative;
 		width: 40rem;
 		max-width: 100%;
-		background-color: rgba(173, 169, 233, 0.85);
+		background-color: rgba(173, 169, 233, 0.75);
 		border-radius: 4px;
 		opacity: 0;
 	}

@@ -662,7 +662,7 @@ input[type="radio"] + label:before {
 
 	.image.left {
 		float: left;
-		padding: 0 0.25em 0.25em 0;
+		padding: 0 0.25em 1em 0;
 		top: 0.25em;
 	}
 
